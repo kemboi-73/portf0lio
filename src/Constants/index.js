@@ -20,15 +20,15 @@ export const ABOUT_TEXT = `
 
 
 
-// export const EXPERIENCES = [
-//   {
-//     year: "2023 - 2024",
-//     role: "Full Stack Developer Intern",
-//     company: "Inlustro Company",
-//     description: `Engineered and maintained a scalable online learning platform using React.js, Node.js, Tailwind CSS, PostgreSQL, Prisma, NestJS, and TypeScript; optimized database queries and enhanced overall system performance. Engineered a robust API in Node.js and NestJS, enabling seamless data retrieval from a PostgreSQL database, improving user experience. Integrated Judge0 API to create an online compiler supporting multiple programming languages, enhancing coding efficiency.`,
-//     technologies: ["React.js", "Node.js", "Tailwind CSS", "PostgreSQL", "Prisma", "NestJS", "TypeScript"],
-//   },
-// ];
+export const EXPERIENCES = [
+  {
+    year: "2023 - 2024",
+    role: "Full Stack Developer Intern",
+    company: "Inlustro Company",
+    description: `Engineered and maintained a scalable online learning platform using React.js, Node.js, Tailwind CSS, PostgreSQL, Prisma, NestJS, and TypeScript; optimized database queries and enhanced overall system performance. Engineered a robust API in Node.js and NestJS, enabling seamless data retrieval from a PostgreSQL database, improving user experience. Integrated Judge0 API to create an online compiler supporting multiple programming languages, enhancing coding efficiency.`,
+    technologies: ["React.js", "Node.js", "Tailwind CSS", "PostgreSQL", "Prisma", "NestJS", "TypeScript"],
+  },
+];
 
 
 export const PROJECTS = [
