@@ -3,32 +3,32 @@ import project2 from "../assets/projects/portfolio.png";
 import project3 from "../assets/projects/project3.jpg";
 
 export const HERO_CONTENT = `
-  I am a full stack development enthusiast passionate about building dynamic and scalable websites. 
-  I specialize in React.js, Node.js, and other modern web technologies, and I love solving DSA problems on LeetCode.Currently, I'm enhancing my skills in Docker and best practices for building robust applications. 
-  Check out my projects on GitHub and connect with me on Twitter to follow my journey in the tech world.
+  I am a junior Software Engineer passionate about problem-solving and dedicated to delivering software solutions that make a positive impact in today's digital landscape.
 `;
 
 
 export const ABOUT_TEXT = `
-  I'm Kamna Bhadoriya, a passionate Full Stack Web Developer and problem solver with a keen interest in exploring the tech world 
+  I'm Kemboi Mike, a passionate Full Stack Web Developer and problem solver with a keen interest in exploring the tech world 
   and continuously learning new technologies. I specialize in Web Development, leveraging my expertise in HTML, CSS, 
   JavaScript, React, Node.js, and more to build dynamic and scalable applications.
   Education:
-  - BE in Computer Engineering from AISSMS IOIT College, Savitribai Phule Pune University (2021 - 2025) - CGPA: 8.6/10. 
+  - Bsc.Information Technology student in University of Eldoret
   I'm always open to new opportunities and collaborations. Feel free to reach out!
+
+  -Software Engineering at ALX-AFRICA 2023-2024
 `;
 
 
 
-export const EXPERIENCES = [
-  {
-    year: "2023 - 2024",
-    role: "Full Stack Developer Intern",
-    company: "Inlustro Company",
-    description: `Engineered and maintained a scalable online learning platform using React.js, Node.js, Tailwind CSS, PostgreSQL, Prisma, NestJS, and TypeScript; optimized database queries and enhanced overall system performance. Engineered a robust API in Node.js and NestJS, enabling seamless data retrieval from a PostgreSQL database, improving user experience. Integrated Judge0 API to create an online compiler supporting multiple programming languages, enhancing coding efficiency.`,
-    technologies: ["React.js", "Node.js", "Tailwind CSS", "PostgreSQL", "Prisma", "NestJS", "TypeScript"],
-  },
-];
+// export const EXPERIENCES = [
+//   {
+//     year: "2023 - 2024",
+//     role: "Full Stack Developer Intern",
+//     company: "Inlustro Company",
+//     description: `Engineered and maintained a scalable online learning platform using React.js, Node.js, Tailwind CSS, PostgreSQL, Prisma, NestJS, and TypeScript; optimized database queries and enhanced overall system performance. Engineered a robust API in Node.js and NestJS, enabling seamless data retrieval from a PostgreSQL database, improving user experience. Integrated Judge0 API to create an online compiler supporting multiple programming languages, enhancing coding efficiency.`,
+//     technologies: ["React.js", "Node.js", "Tailwind CSS", "PostgreSQL", "Prisma", "NestJS", "TypeScript"],
+//   },
+// ];
 
 
 export const PROJECTS = [
