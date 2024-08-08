@@ -14,12 +14,12 @@ export const ABOUT_TEXT = `
 
 `;
 
-export const EDUCATION_TEXT = `
-  - Bsc.Information Technology student in University of Eldoret
-  I'm always open to new opportunities and collaborations. Feel free to reach out!
+// export const EDUCATION_TEXT = `
+//   - Bsc.Information Technology student in University of Eldoret
+//   I'm always open to new opportunities and collaborations. Feel free to reach out!
 
-  -Complete Software Engineering at ALX-AFRICA 2023-2024 with specialisation in backend.
-`;
+//   -Complete Software Engineering at ALX-AFRICA 2023-2024 with specialisation in backend.
+// `;
 export const EXPERIENCES = [
   {
     year: "2023 - 2024",
