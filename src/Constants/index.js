@@ -14,7 +14,7 @@ export const ABOUT_TEXT = `
 
 `;
 
-export const ABOUT_TEXT = `
+export const EDUCATION_TEXT = `
   - Bsc.Information Technology student in University of Eldoret
   I'm always open to new opportunities and collaborations. Feel free to reach out!
 
