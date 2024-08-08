@@ -17,10 +17,10 @@ const Navbar = () => {
       </div>
       <div className='flex gap-5'>
         <div className='flex items-center justify-center gap-4 text-2xl'>
-          <a href="https://www.linkedin.com/in/kamna-bhadoriya/" target='_blank' rel="noopener noreferrer"><FaLinkedin/></a>
-          <a href="https://github.com/Kamna16" target='_blank' rel="noopener noreferrer"><FaGithub/></a>
-          <a href="https://twitter.com/kamnaBhadoriya" target='_blank' rel="noopener noreferrer"><FaTwitter/></a>
-          <a href="https://leetcode.com/u/kamnabhadoriya042/" target='_blank' rel="noopener noreferrer"><SiLeetcode/></a>
+          <a href="https://www.linkedin.com/in/kemboimikey/" target='_blank' rel="noopener noreferrer"><FaLinkedin/></a>
+          <a href="https://github.com/kemboi-73" target='_blank' rel="noopener noreferrer"><FaGithub/></a>
+          <a href="https://twitter.com/mykey611" target='_blank' rel="noopener noreferrer"><FaTwitter/></a>
+          {/* <a href="https://leetcode.com/u/kamnabhadoriya042/" target='_blank' rel="noopener noreferrer"><SiLeetcode/></a> */}
         </div>
         {/* <div>
           <button className='bg-white rounded-md p-1 text-black text-extrabold'>Resources</button>
