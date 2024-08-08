@@ -1,6 +1,6 @@
 import React from 'react'
 import {HERO_CONTENT} from "../Constants/index"
-import me from "../assets/userAsset/me.png"
+// import me from "../assets/userAsset/me.png"
 import { motion } from "framer-motion"
 
 const container = (delay) => ({
@@ -22,13 +22,13 @@ const Hero = () => {
                   variants={container(0)}
                   initial="hidden"
                   animate="visible"
-                  className='pb-10 text-4xl font-thin tracking-tight lg:mt-10 lg:text-7xl'><span className='text-3xl tracking-tight'>Hello I'm </span>Kamna</motion.h1>
+                  className='pb-10 text-4xl font-thin tracking-tight lg:mt-10 lg:text-7xl'><span className='text-3xl tracking-tight'>Hello I'm </span>Kemboi</motion.h1>
                   <motion.span
                   variants={container(0.5)}
                   initial="hidden"
                   animate="visible" 
                    className='bg-gradient-to-r from-purple-300 via-slate-500 to-darkblue-50 bg-clip-text text-4xl tracking-tight text-transparent'>
-                      A Full Stack Developer
+                      A Full Stack Sofware Developer
                   </motion.span>
                   <motion.p 
                   variants={container(1)}
@@ -43,7 +43,7 @@ const Hero = () => {
                 initial={{x:100, opacity: 0}}
                 animate={{x:0, opacity: 1}}
                 transition={{duration: 1, delay:1.2}}
-                className='rounded-full' src={me} width={500} height={500} alt="Kamna" />
+                className='rounded-full' src={me} width={500} height={500} alt="Kemboi" />
               </div>
             </div>
         </div>
