@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/codeup.png";
-import project2 from "../assets/projects/portfolio.png";
+import project2 from "../assets/projects/mpesa.png";
 import project3 from "../assets/projects/project3.jpg";
 
 export const HERO_CONTENT = `
@@ -33,27 +33,23 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "CodeUp",
+    title: "MSET Point Of sale",
     image: project1,
-    github: "https://github.com/Kamna16/CodeUp",
-    link: "https://codeup-three.vercel.app/",
+    // github: "https://github.com/Kamna16/CodeUp",
+    // link: "https://codeup-three.vercel.app/",
     description:
-      "CodeUp is a fully functional ed-tech platform enabling users to create, consume, and rate educational content, built using the MERN stack (ReactJS, NodeJS, MongoDB, ExpressJS). " +
-      "Advanced User Management: Implemented secure and scalable user authentication and authorization mechanisms. " +
-      "Dynamic Course Management: Developed comprehensive tools for seamless course creation, updating, deletion, and rating, enhancing user engagement and content quality. " +
-      "Seamless Payment Integration: Integrated Razorpay for efficient and secure payment processing, ensuring a smooth transaction experience. " +
-      "Robust Media Management: Leveraged Cloudinary for optimized cloud-based media handling, supporting high-quality videos, images, and documents to enrich the learning experience.",
-    technologies: ["ReactJS", "NodeJS", "MongoDB", "ExpressJS", "Razorpay", "Cloudinary","Nodemailer"],
+      "MSET Point of Sale is a powerful, web-based application tailored for business owners who seek seamless management and tracking of their sales operations. With an intuitive and user-friendly interface, MSET provides real-time insights into your transactions, inventory, and customer interactions, all accessible from any device with an internet connection. Whether you run a retail store, restaurant, or online shop, MSET simplifies complex sales processes, enabling you to monitor sales trends, generate detailed reports, and manage inventory with ease. Its robust features ensure secure transactions, streamlined checkout processes, and accurate record-keeping, making it the ideal solution for growing your business efficiently",
+    technologies: ["Django", "Python", "Javascript", "HTML", "CSS", "SQL"],
   },
-  // {
-  //   title: "Portfolio Website",
-  //   image: project2,
-  //   github: "https://github.com/Kamna16/MyPortfolio",
-  //   link: "https://kamna-portfolio.vercel.app/",
-  //   description:
-  //     "A personal portfolio website showcasing projects, skills, and contact information.",
-  //   technologies: ["HTML", "CSS", "React", "Framer Motion","Tailwind"],
-  // },
+  {
+    title: "MPESA DARAJA API",
+    image: project2,
+    // github: "https://github.com/Kamna16/MyPortfolio",
+    // link: "https://kamna-portfolio.vercel.app/",
+    description:
+      "MPESA DARAJA API is a Django-based web application that integrates with Safaricom's M-Pesa services to facilitate various mobile payment operations, such as initiating STK Push transactions and querying transaction status.",
+    technologies: ["Python", "Django", "SQL", ],
+  },
   // {
   //   title: "Bike Repair Website",
   //   image: project3, 
