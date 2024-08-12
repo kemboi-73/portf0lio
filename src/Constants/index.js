@@ -8,9 +8,9 @@ export const HERO_CONTENT = `
 
 
 export const ABOUT_TEXT = `
-  I'm Kemboi Mike, a passionate Full Stack Web Developer and problem solver with a keen interest in exploring the tech world 
-  and continuously learning new technologies. I specialize in Web Development, leveraging my expertise in HTML, CSS, 
-  JavaScript, React, Node.js, and more to build dynamic and scalable applications.
+  I'm Kemboi Mike, am committed to solving complex problems and delivering impactful solutions in the digital realm. I focus on crafting innovative and efficient solutions, keeping up with emerging technologies to stay relevant. With a passion for excellence, I aim to contribute to projects that push the boundaries of technology and make a meaningful impact.
+  Education:'Bsc. Information Technology- Universiy Of Eldoret.
+           - Software Engineering- African Leadership(ALX 2023/2024)
 
 `;
 
@@ -23,9 +23,9 @@ export const ABOUT_TEXT = `
 export const EXPERIENCES = [
   {
     year: "2023 - 2024",
-    role: "Full Stack Developer Intern",
+    role: "Backend Developer Intern",
     company: "Constech Limited ",
-    description: `Engineered and maintained a scalable online learning platform using React.js, Node.js, Tailwind CSS, PostgreSQL, Prisma, NestJS, and TypeScript; optimized database queries and enhanced overall system performance. Engineered a robust API in Node.js and NestJS, enabling seamless data retrieval from a PostgreSQL database, improving user experience. Integrated Judge0 API to create an online compiler supporting multiple programming languages, enhancing coding efficiency.`,
+    description: `Engineered and maintained scalable business platform using Django, and PostgreSQL; optimized database queries and enhanced overall system performance.`,
     technologies: ["Django", "Javascript", "PostgreSQL", "Python"],
   },
 ];
