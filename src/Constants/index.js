@@ -32,19 +32,19 @@ export const EXPERIENCES = [
 
 
 export const PROJECTS = [
-  // {
-  //   title: "CodeUp",
-  //   image: project1,
-  //   github: "https://github.com/Kamna16/CodeUp",
-  //   link: "https://codeup-three.vercel.app/",
-  //   description:
-  //     "CodeUp is a fully functional ed-tech platform enabling users to create, consume, and rate educational content, built using the MERN stack (ReactJS, NodeJS, MongoDB, ExpressJS). " +
-  //     "Advanced User Management: Implemented secure and scalable user authentication and authorization mechanisms. " +
-  //     "Dynamic Course Management: Developed comprehensive tools for seamless course creation, updating, deletion, and rating, enhancing user engagement and content quality. " +
-  //     "Seamless Payment Integration: Integrated Razorpay for efficient and secure payment processing, ensuring a smooth transaction experience. " +
-  //     "Robust Media Management: Leveraged Cloudinary for optimized cloud-based media handling, supporting high-quality videos, images, and documents to enrich the learning experience.",
-  //   technologies: ["ReactJS", "NodeJS", "MongoDB", "ExpressJS", "Razorpay", "Cloudinary","Nodemailer"],
-  // },
+  {
+    title: "CodeUp",
+    image: project1,
+    github: "https://github.com/Kamna16/CodeUp",
+    link: "https://codeup-three.vercel.app/",
+    description:
+      "CodeUp is a fully functional ed-tech platform enabling users to create, consume, and rate educational content, built using the MERN stack (ReactJS, NodeJS, MongoDB, ExpressJS). " +
+      "Advanced User Management: Implemented secure and scalable user authentication and authorization mechanisms. " +
+      "Dynamic Course Management: Developed comprehensive tools for seamless course creation, updating, deletion, and rating, enhancing user engagement and content quality. " +
+      "Seamless Payment Integration: Integrated Razorpay for efficient and secure payment processing, ensuring a smooth transaction experience. " +
+      "Robust Media Management: Leveraged Cloudinary for optimized cloud-based media handling, supporting high-quality videos, images, and documents to enrich the learning experience.",
+    technologies: ["ReactJS", "NodeJS", "MongoDB", "ExpressJS", "Razorpay", "Cloudinary","Nodemailer"],
+  },
   // {
   //   title: "Portfolio Website",
   //   image: project2,
